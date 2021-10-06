@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel src/index.html",
     "format": "prettier --write \"src/**/*.{js,jsx,md,css}\"",
-    "lint": "eslint \"src/**/*.{js,jsx}\"",
-    "build": "parcel build index.html"
+    "lint": "eslint \"src/**/*.{js,jsx}\""
   },
   "author": "",
   "license": "ISC",
